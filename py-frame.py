@@ -17,7 +17,7 @@ TopBottomFrame = ('**********')
 
 print(TopBottomFrame)
 
-for word in FrameContentList:
+for word in FrameContentListg:
     print('* ' + word + ' *')
 
 print(TopBottomFrame)
@@ -44,7 +44,9 @@ for word in FrameContentList:
 
 print(TopBottomFrame)
 
-# Frame with complete automation: op line orients itself on longest word in the list and ads 4
+# Automated 3
+#Frame with complete automation: top line orientates itself on longest word in the list and ads 4
+
 FrameContentList = ["Circle", "in", "a", "frame", "with", "supervariable", "distance"] #no limit
 singleStar = ('*')
 spaceAfterWord = (' ')
